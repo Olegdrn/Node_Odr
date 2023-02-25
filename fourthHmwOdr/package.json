@@ -1,0 +1,17 @@
+{
+  "name": "fourthhmw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeFourthHmwOdr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start": "node nodeFourthHmwOdr.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "yargs": "^17.7.0"
+  }
+}
