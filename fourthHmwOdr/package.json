@@ -1,16 +1,17 @@
 {
-  "name": "fourthhmwodr",
+  "name": "fourthhmw",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "nodeFourthHmwOdr.js",
   "scripts": {
-    "start": "node fourthhmwodr.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": {
-    "reader": "index.js"
-  },
+  "start": "node nodeFourthHmwOdr.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "yargs": "^17.7.0"
+  }
 }
